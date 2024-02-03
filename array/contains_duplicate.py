@@ -6,3 +6,8 @@ class Solution:
             if nums[idx] == nums[idx+1]:
                 return True
         return False
+    
+
+
+# s = Solution()
+# print(s.containsDuplicate([1,2,3,1]))
